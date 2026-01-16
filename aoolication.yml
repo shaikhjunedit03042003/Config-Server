@@ -11,7 +11,7 @@ eureka:
 microservice:
   payment-service:
     endpoints:
-      uri: http://PAYMENT-SERVICE/payment/dopayment
+      uri: http://PAYMENT-SERVICE/payment/doPayment
   order-service:
     endpoints:
       uri: http://ORDER-SERVICE/order/bookOrder
